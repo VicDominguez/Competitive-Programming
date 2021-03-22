@@ -2,7 +2,7 @@
 
 Problems solved:
 
-##Java
+## Java
 - \#100: 3n+1
 - \#272: TeX Quotes
 - \#11172: Relational Operator
@@ -10,5 +10,5 @@ Problems solved:
 - \#11727: Cost Cutting
 - \#11799: Horror Dash
 
-##C++
+## C++
 - \#11559: Event Planning
