@@ -1,6 +1,6 @@
 *.txt
 *.iml
 out/*
-.idea/*
-src/Main.java
-/src/pruebas.java
+*.idea/*
+java/Main.java
+java/pruebas.java
